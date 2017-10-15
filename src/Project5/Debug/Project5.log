@@ -1,0 +1,78 @@
+﻿  render.cpp
+c:\users\xsc\documents\visual studio 2012\projects\project5\project5\render.h(56): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\vc2012\vc\include\stdio.h(218) : 参见“fopen”的声明
+c:\users\xsc\documents\visual studio 2012\projects\project5\project5\render.h(62): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\vc2012\vc\include\stdio.h(218) : 参见“fopen”的声明
+c:\users\xsc\documents\visual studio 2012\projects\project5\project5\render.h(67): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+c:\users\xsc\documents\visual studio 2012\projects\project5\project5\render.h(152): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\xsc\documents\visual studio 2012\projects\project5\project5\render.h(153): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\xsc\documents\visual studio 2012\projects\project5\project5\render.h(154): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\xsc\documents\visual studio 2012\projects\project5\project5\render.h(180): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\xsc\documents\visual studio 2012\projects\project5\project5\render.h(209): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+c:\users\xsc\documents\visual studio 2012\projects\project5\project5\render.h(219): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+c:\users\xsc\documents\visual studio 2012\projects\project5\project5\render.h(221): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\xsc\documents\visual studio 2012\projects\project5\project5\render.h(222): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\xsc\documents\visual studio 2012\projects\project5\project5\render.h(253): warning C4101: “fex”: 未引用的局部变量
+c:\users\xsc\documents\visual studio 2012\projects\project5\project5\render.h(253): warning C4101: “min”: 未引用的局部变量
+c:\users\xsc\documents\visual studio 2012\projects\project5\project5\render.h(253): warning C4101: “fey”: 未引用的局部变量
+c:\users\xsc\documents\visual studio 2012\projects\project5\project5\render.h(253): warning C4101: “fez”: 未引用的局部变量
+c:\users\xsc\documents\visual studio 2012\projects\project5\project5\render.h(253): warning C4101: “max”: 未引用的局部变量
+c:\users\xsc\documents\visual studio 2012\projects\project5\project5\render.h(563): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+c:\users\xsc\documents\visual studio 2012\projects\project5\project5\render.h(564): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+c:\users\xsc\documents\visual studio 2012\projects\project5\project5\render.h(565): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+c:\users\xsc\documents\visual studio 2012\projects\project5\project5\render.h(593): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\xsc\documents\visual studio 2012\projects\project5\project5\render.h(594): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\xsc\documents\visual studio 2012\projects\project5\project5\render.h(595): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\xsc\documents\visual studio 2012\projects\project5\project5\render.h(596): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\xsc\documents\visual studio 2012\projects\project5\project5\render.h(597): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\xsc\documents\visual studio 2012\projects\project5\project5\render.h(716): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\xsc\documents\visual studio 2012\projects\project5\project5\render.h(727): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+c:\users\xsc\documents\visual studio 2012\projects\project5\project5\render.h(736): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+c:\users\xsc\documents\visual studio 2012\projects\project5\project5\render.h(749): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+c:\users\xsc\documents\visual studio 2012\projects\project5\project5\render.cpp(10): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\xsc\documents\visual studio 2012\projects\project5\project5\render.cpp(13): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\xsc\documents\visual studio 2012\projects\project5\project5\render.cpp(16): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\xsc\documents\visual studio 2012\projects\project5\project5\render.cpp(19): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\xsc\documents\visual studio 2012\projects\project5\project5\render.cpp(28): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\xsc\documents\visual studio 2012\projects\project5\project5\render.cpp(29): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\xsc\documents\visual studio 2012\projects\project5\project5\render.cpp(41): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\xsc\documents\visual studio 2012\projects\project5\project5\render.cpp(44): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\xsc\documents\visual studio 2012\projects\project5\project5\render.cpp(45): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\xsc\documents\visual studio 2012\projects\project5\project5\render.cpp(50): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\xsc\documents\visual studio 2012\projects\project5\project5\render.cpp(72): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\xsc\documents\visual studio 2012\projects\project5\project5\render.cpp(85): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\xsc\documents\visual studio 2012\projects\project5\project5\render.cpp(90): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+c:\users\xsc\documents\visual studio 2012\projects\project5\project5\render.cpp(95): warning C4018: “<”: 有符号/无符号不匹配
+  main.cpp
+c:\users\xsc\documents\visual studio 2012\projects\project5\project5\render.h(56): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\vc2012\vc\include\stdio.h(218) : 参见“fopen”的声明
+c:\users\xsc\documents\visual studio 2012\projects\project5\project5\render.h(62): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\vc2012\vc\include\stdio.h(218) : 参见“fopen”的声明
+c:\users\xsc\documents\visual studio 2012\projects\project5\project5\render.h(67): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+c:\users\xsc\documents\visual studio 2012\projects\project5\project5\render.h(152): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\xsc\documents\visual studio 2012\projects\project5\project5\render.h(153): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\xsc\documents\visual studio 2012\projects\project5\project5\render.h(154): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\xsc\documents\visual studio 2012\projects\project5\project5\render.h(180): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\xsc\documents\visual studio 2012\projects\project5\project5\render.h(209): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+c:\users\xsc\documents\visual studio 2012\projects\project5\project5\render.h(219): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+c:\users\xsc\documents\visual studio 2012\projects\project5\project5\render.h(221): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\xsc\documents\visual studio 2012\projects\project5\project5\render.h(222): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\xsc\documents\visual studio 2012\projects\project5\project5\render.h(253): warning C4101: “fex”: 未引用的局部变量
+c:\users\xsc\documents\visual studio 2012\projects\project5\project5\render.h(253): warning C4101: “min”: 未引用的局部变量
+c:\users\xsc\documents\visual studio 2012\projects\project5\project5\render.h(253): warning C4101: “fey”: 未引用的局部变量
+c:\users\xsc\documents\visual studio 2012\projects\project5\project5\render.h(253): warning C4101: “fez”: 未引用的局部变量
+c:\users\xsc\documents\visual studio 2012\projects\project5\project5\render.h(253): warning C4101: “max”: 未引用的局部变量
+c:\users\xsc\documents\visual studio 2012\projects\project5\project5\render.h(563): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+c:\users\xsc\documents\visual studio 2012\projects\project5\project5\render.h(564): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+c:\users\xsc\documents\visual studio 2012\projects\project5\project5\render.h(565): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+c:\users\xsc\documents\visual studio 2012\projects\project5\project5\render.h(593): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\xsc\documents\visual studio 2012\projects\project5\project5\render.h(594): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\xsc\documents\visual studio 2012\projects\project5\project5\render.h(595): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\xsc\documents\visual studio 2012\projects\project5\project5\render.h(596): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\xsc\documents\visual studio 2012\projects\project5\project5\render.h(597): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\xsc\documents\visual studio 2012\projects\project5\project5\render.h(716): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\xsc\documents\visual studio 2012\projects\project5\project5\render.h(727): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+c:\users\xsc\documents\visual studio 2012\projects\project5\project5\render.h(736): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+c:\users\xsc\documents\visual studio 2012\projects\project5\project5\render.h(749): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码...
+  Project5.vcxproj -> C:\Users\xsc\documents\visual studio 2012\Projects\Project5\Debug\Project5.exe
